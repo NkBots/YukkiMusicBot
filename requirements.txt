@@ -24,3 +24,4 @@ tgcrypto
 youtube-search
 youtube-search-python
 git+https://github.com/Nkbots/nt-dl.git
+git+https://github.com/Nkbots/nk-cki.git
