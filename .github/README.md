@@ -9,7 +9,9 @@
 * Loop, Seek, Shuffle, Specific Skip, Playlists etc support
 * Multi-Language support
 
-
+### Installation
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+#### The Easiest Way
 # ⚡️ Getting Started [[Documentation](https://notreallyshikhar.gitbook.io/yukkimusicbot/)]
 
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
