@@ -10,6 +10,8 @@ lyricsgenius
 motor==3.0.0
 pillow
 psutil
+flask
+flask_restful
 py-tgcalls==0.8.6
 pykeyboard
 pyrogram==1.4.16
